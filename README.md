@@ -1,17 +1,15 @@
 # Desafio de colaboração no GitHub
 
-Repositório criado para praticar os recursos de colaboração do GitHub como parte do curso de GitHub da DIO.me.
+Este repositório foi criado como parte do curso de GitHub da DIO.me para praticar, na prática, o fluxo de colaboração do GitHub usando minhas próprias contas.
 
-## Objetivo
+## O que foi realizado
 
-Praticar os recursos de colaboração do GitHub usando minhas próprias contas, com Issues, branches e Pull Requests.
+1. Criei uma Issue para registrar e organizar a tarefa do desafio.
+2. Trabalhei em uma branch para manter a alteração separada da branch principal.
+3. Preparei os exercícios: em `atividade.py`, o enunciado pede a soma de dois números; em `atividade2.py`, o enunciado propõe calcular o produto de dois números.
+4. Abri um Pull Request para apresentar a alteração e permitir sua revisão antes da integração.
+5. Revisei e integrei o Pull Request à branch principal, concluindo o fluxo proposto.
 
-## Atividades
+## Resultado
 
-- [ x ] Criar uma Issue para registrar uma tarefa.
-- [ x ] Fazer uma alteração em uma branch e abrir um Pull Request.
-- [ x ] Revisar e integrar o Pull Request; 
-
-## Sobre
-
-Este repositório tem finalidade educacional e serve para praticar as ferramentas de colaboração disponíveis no GitHub.
+O desafio foi finalizado com a prática das etapas principais de colaboração no GitHub: organização do trabalho por Issue, desenvolvimento em branch, envio por Pull Request, revisão e integração das alterações. O arquivo [Pullrequest.md](pasta/Pullrequest.md) também registra uma explicação sobre a finalidade de um Pull Request.
